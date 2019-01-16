@@ -4,7 +4,7 @@ For this project you will be building a digital resume from scratch. You will be
 
 ## Task 1: Set Up The Project With Git
 
-* [x] Fork the project into your GitHub user account
+* [] Fork the project into your GitHub user account
 * [ ] Clone the forked project into a directory on your machine
 * [ ] You are now ready to build this project with your preferred IDE
 
